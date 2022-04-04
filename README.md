@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on JavaScript, noodsjs and react
 - 📫 How to reach me abdulmalekahmed736@gmail.com
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmalekhmed&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmalekhmed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/watani-watani-b306961b9/opportunities/job-opportunities?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bdytz3esrtfibdvhxwkzakg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/watani-watani-b306961b9/opportunities/job-opportunities?trk=opento_sprofile_topcard&lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bdytz3esrtfibdvhxwkzakg%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ abdulmalek-ahmed-b306961b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ abdulmalek-ahmed-b306961b9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulmalekhmed&show_icons=true&locale=en" alt="abdulmalekhmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmalekhmed&" alt="abdulmalekhmed" /></p>
-<br />
+
 <br />
 
 ---
